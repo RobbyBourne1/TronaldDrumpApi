@@ -1,0 +1,10 @@
+/Users/robbybourne/Projects/TronaldDrumpApi/bin/Debug/netcoreapp2.0/TronaldDrumpApi.deps.json
+/Users/robbybourne/Projects/TronaldDrumpApi/bin/Debug/netcoreapp2.0/TronaldDrumpApi.runtimeconfig.json
+/Users/robbybourne/Projects/TronaldDrumpApi/bin/Debug/netcoreapp2.0/TronaldDrumpApi.runtimeconfig.dev.json
+/Users/robbybourne/Projects/TronaldDrumpApi/bin/Debug/netcoreapp2.0/TronaldDrumpApi.dll
+/Users/robbybourne/Projects/TronaldDrumpApi/bin/Debug/netcoreapp2.0/TronaldDrumpApi.pdb
+/Users/robbybourne/Projects/TronaldDrumpApi/obj/Debug/netcoreapp2.0/TronaldDrumpApi.csproj.CoreCompileInputs.cache
+/Users/robbybourne/Projects/TronaldDrumpApi/obj/Debug/netcoreapp2.0/TronaldDrumpApi.AssemblyInfoInputs.cache
+/Users/robbybourne/Projects/TronaldDrumpApi/obj/Debug/netcoreapp2.0/TronaldDrumpApi.AssemblyInfo.cs
+/Users/robbybourne/Projects/TronaldDrumpApi/obj/Debug/netcoreapp2.0/TronaldDrumpApi.dll
+/Users/robbybourne/Projects/TronaldDrumpApi/obj/Debug/netcoreapp2.0/TronaldDrumpApi.pdb
